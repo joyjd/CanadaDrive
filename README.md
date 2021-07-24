@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+Steps in brief:
+=================
+1. Download the repository
+2. Run - npm install
+3. Run - npm start
+
+# Getting Started with this samle app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
